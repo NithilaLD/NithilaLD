@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NithilaLD
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning c language.
+- 👋 Hi, I’m NithilaLD
+- 👀 I’m Interested In Coding.
+- 🌱 I’m Currently Learning C Language.
 
 <!---
 NithilaLD/NithilaLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
