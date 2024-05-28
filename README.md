@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NithilaLD
+- 👋 Hi, I’m Dulan Nithila Liyanarachchi
 - 👀 I’m Interested In Coding.
 - 🌱 I’m Currently Learning Cyber Security.
 
