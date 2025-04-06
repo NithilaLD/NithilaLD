@@ -67,10 +67,12 @@
 ---
 ---
 
-### 📝 Linkedin
+## LinkedIn
 
-<!-- Linkedin:START -->
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dulan-nithila-liyanarachchi-563a7121a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a?trk=profile-badge">Dulan Nithila Liyanarachchi</a></div>
+You can find me on LinkedIn at [Dulan Nithila Liyanarachchi](https://lk.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a?trk=profile-badge).
+
+![LinkedIn Badge](https://platform.linkedin.com/badges/js/profile.js)
+
               
 <!-- BLOG-POST-LIST:END -->
 
