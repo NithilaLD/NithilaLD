@@ -53,7 +53,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | NSBM Employee Purchase Requisition System https://github.com/venuraka/NSBM-Employee-Purchase-Requisition-System | The NSBM Employee Purchase Requisition System automates and simplifies employee purchase requests | `PHP`, `Javascript(js)`, `CSS`, `HTML`, `Boostrap`, `MySQL` |
-| Resto Point Of Sale System https://github.com/NithilaLD/Resto_POS | A customizable POS system that streamlines restaurant operations and boosts efficiency and customer satisfaction | `Reactjs`, `Nodejs`, `PostgreSQL` |
+| Resto Point Of Sale System https://github.com/NithilaLD/Resto_POS | A customizable POS system that streamlines restaurant operations and boosts efficiency and customer satisfaction | `Reactjs`, `Nodejs`, `PostgreSQL`, `Tailwind CSS` |
 | Salary Generating Software https://github.com/NithilaLD/Salary-Generating-Software | The Salary Generating System automates salary calculations and generates detailed payslips. | `C#`, `Visual Studio` |
 
 ---
