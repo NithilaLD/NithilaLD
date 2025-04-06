@@ -80,6 +80,16 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NithilaLD&label=Profile%20Views&color=purple&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  🌟 Thanks for Visiting My Profile! 🌟
+</p>
+
+---
+
 **Last updated on: 📆 April, 2025**
 <!---
 NithilaLD/NithilaLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
