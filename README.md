@@ -7,7 +7,6 @@
 
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=NithilaLD&color=blue)
 
 ### 👨‍💻 About Me
 
