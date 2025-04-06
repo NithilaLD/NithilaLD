@@ -56,26 +56,6 @@
 | Resto Point Of Sale System https://github.com/NithilaLD/Resto_POS | A customizable POS system that streamlines restaurant operations and boosts efficiency and customer satisfaction | `Reactjs`, `Nodejs`, `PostgreSQL`, `Tailwind CSS` |
 | Salary Generating Software https://github.com/NithilaLD/Salary-Generating-Software | The Salary Generating System automates salary calculations and generates detailed payslips. | `C#`, `Visual Studio` |
 
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Fullstack App with Next.js](https://yourblog.com)
-- [5 Tips for Writing Clean JavaScript Code](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
-
----
----
-
-## LinkedIn
-
-You can find me on LinkedIn at [Dulan Nithila Liyanarachchi](https://lk.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a?trk=profile-badge).
-
-![LinkedIn Badge](https://platform.linkedin.com/badges/js/profile.js)
-
-              
-<!-- BLOG-POST-LIST:END -->
 
 ---
 ### 📫 Connect with Me
