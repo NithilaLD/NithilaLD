@@ -65,7 +65,16 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+---
 
+### 📝 Linkedin
+
+<!-- Linkedin:START -->
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dulan-nithila-liyanarachchi-563a7121a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a?trk=profile-badge">Dulan Nithila Liyanarachchi</a></div>
+              
+<!-- BLOG-POST-LIST:END -->
+
+---
 ### 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
