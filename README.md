@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
+<h1 align="center">Hi 👋, I'm Dulan Nithila Liyanarachchi</h1>
 
 <p align="center">
   <a href="https://your-website.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
