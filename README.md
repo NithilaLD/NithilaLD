@@ -29,7 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 #### Frameworks & Tools  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![Reactjs](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)  
 
 #### DevOps & Cloud  
@@ -53,7 +53,8 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | NSBM Employee Purchase Requisition System https://github.com/venuraka/NSBM-Employee-Purchase-Requisition-System | The NSBM Employee Purchase Requisition System automates and simplifies employee purchase requests | `PHP`, `Javascript(js)`, `CSS`, `HTML`, `Boostrap`, `MySQL` |
-| Salary Generating Software https://github.com/NithilaLD/Salary-Generating-Software | The Salary Generating System automates salary calculations and generates detailed payslips. | `C#` |
+| Resto Point Of Sale System https://github.com/NithilaLD/Resto_POS | A customizable POS system that streamlines restaurant operations and boosts efficiency and customer satisfaction | `Reactjs`, `Nodejs`, `PostgreSQL` |
+| Salary Generating Software https://github.com/NithilaLD/Salary-Generating-Software | The Salary Generating System automates salary calculations and generates detailed payslips. | `C#`, `Visual Studio` |
 
 ---
 
