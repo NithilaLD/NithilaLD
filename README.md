@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NithilaLD&show_icons=true&theme=github_dark" height="170" width="40%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithilaLD&layout=compact&theme=github_dark" height="170" width="40%" style="padding-left: 10px;"/>
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithilaLD&layout=compact&theme=github_dark" height="170" width="40%" style="padding-left: 10px;"/>
 </p>
 
 ---
