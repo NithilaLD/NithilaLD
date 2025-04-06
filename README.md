@@ -52,7 +52,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Project Name](https://github.com/your-username/project) | Short one-liner about what it does | `React`, `Node.js`, `MongoDB` |
+| NSBM Employee Purchase Requisition System(https://github.com/venuraka/NSBM-Employee-Purchase-Requisition-System) | The NSBM Employee Purchase Requisition System automates and simplifies employee purchase requests | `PHP`, `Javascript(js)`, `CSS`, `HTML`,`Boostrap`,`MySQL` |
 | [Another Project](https://github.com/your-username/project2) | Short one-liner about what it does | `Python`, `Flask`, `PostgreSQL` |
 
 ---
