@@ -61,14 +61,11 @@
 ### 📫 Connect with Me
 
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Website: [your-website.com](https://your-website.com)
 - Email: your.email@example.com
 
 ---
 
 *Last updated on: 📆 [Month, Year]*
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!---
 NithilaLD/NithilaLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
