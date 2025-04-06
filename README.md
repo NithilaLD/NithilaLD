@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project/Company Name]**
-- 🌱 I’m currently learning **[Tech, Framework, etc.]**
-- 💬 Ask me about **[Tech/Topic]**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something quirky or unique about you]**
+- 🎓 Currently diving deep into **Data Science** & **Cyber Security**
+- 💡 Passionate about all things tech — from building cool stuff to breaking it (ethically 😉)
+- 💬 Always up for a chat about **IT, tech trends, or just random geeky stuff**
+- 📬 Reach me at: **nithila0411@gmail.com**
+- 🎵 Fun fact: I'm a **music enthusiast** — you'll often find me vibing to tunes while coding
 
 ---
 
