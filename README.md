@@ -54,12 +54,12 @@
 ---
 ### 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: <a href="https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/" target="_blank">Dulan Nithila Liyanarachchi</a>
+- Email: nithila0411@gmail.com
 
 ---
 
-*Last updated on: 📆 [Month, Year]*
+*Last updated on: 📆 [April, 2025]*
 <!---
 NithilaLD/NithilaLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
