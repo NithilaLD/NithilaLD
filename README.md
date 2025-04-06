@@ -81,10 +81,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NithilaLD&label=Profile%20Views&color=purple&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
   🌟 Thanks for Visiting My Profile! 🌟
 </p>
 
