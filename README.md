@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="nithila0411@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nithila0411@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -11,9 +11,8 @@
 
 > **Turning caffeine into code, one bug at a time. ☕💻**
 
-- 🎓 Currently diving deep into **Data Science** & **Cyber Security**
+- 🎓 Currently diving deep into **Software Development**, **Web Development** & **Cyber Security**
 - 💡 Passionate about all things tech — from building cool stuff to breaking it (ethically 😉)
-- 💬 Always up for a chat about **IT, tech trends, or just random geeky stuff**
 - 📬 Reach me at: **nithila0411@gmail.com**
 - 🎵 Fun fact: I'm a **music enthusiast** — you'll often find me vibing to tunes while coding
 
