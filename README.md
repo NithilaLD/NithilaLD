@@ -53,7 +53,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | NSBM Employee Purchase Requisition System https://github.com/venuraka/NSBM-Employee-Purchase-Requisition-System | The NSBM Employee Purchase Requisition System automates and simplifies employee purchase requests | `PHP`, `Javascript(js)`, `CSS`, `HTML`, `Boostrap`, `MySQL` |
-| Salary Generating Software https://github.com/NithilaLD/Salary-Generating-Software | Short one-liner about what it does | `Python`, `Flask`, `PostgreSQL` |
+| Salary Generating Software https://github.com/NithilaLD/Salary-Generating-Software | The Salary Generating System automates salary calculations and generates detailed payslips. | `C#` |
 
 ---
 
