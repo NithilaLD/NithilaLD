@@ -9,6 +9,8 @@
 
 ### 👨‍💻 About Me
 
+> *"Turning caffeine into code, one bug at a time." ☕💻*
+
 - 🎓 Currently diving deep into **Data Science** & **Cyber Security**
 - 💡 Passionate about all things tech — from building cool stuff to breaking it (ethically 😉)
 - 💬 Always up for a chat about **IT, tech trends, or just random geeky stuff**
