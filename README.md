@@ -7,7 +7,7 @@
 
 ---
 
-### <img src="https://avatars.githubusercontent.com/u/135966685?s=400&u=ec918608ad186f721d1ac736558c7603e887a620&v=4" width="30" height="30" style="vertical-align: middle;" /> About Me
+### 👨‍💻 About Me
 
 > *"Turning caffeine into code, one bug at a time." ☕💻*
 
