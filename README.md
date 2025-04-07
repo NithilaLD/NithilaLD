@@ -32,6 +32,14 @@
 #### Softwares & Tools  
 ![GitHub](https://img.shields.io/badge/-GitHub-2088FF?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white) <br/>![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) <br/>![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6A5C5C?style=flat-square&logo=phpmyadmin&logoColor=white) ![pgAdmin](https://img.shields.io/badge/-pgAdmin-336791?style=flat-square&logo=pgadmin&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/-ClickUp-7E5F4B?style=flat-square&logo=clickup&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) 
+![Adobe Dreamweaver](https://img.shields.io/badge/-Dreamweaver-FF61F6?style=flat-square&logo=adobe-dreamweaver&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) 
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF7139?style=flat-square&logo=burp-suite&logoColor=white) 
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) 
+![TouchCopy](https://img.shields.io/badge/-TouchCopy-6C757D?style=flat-square) 
+![3uTools](https://img.shields.io/badge/-3uTools-0084FF?style=flat-square)
 
 </p>
 
