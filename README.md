@@ -20,7 +20,7 @@
           font-family: "SF Pro Text", Helvetica, sans-serif;
         }
       </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dulan-nithila-liyanarachchi-563a7121a" target="_blank">Follow on LinkedIn</a>
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dulan-nithila-liyanarachchi-563a7121a" target="_blank" style="display: flex;flex-direction: column;justify-content: center;padding: 7px;text-align: center;outline: none;text-decoration: none !important;color: #ffffff !important;width: 200px;height: 32px;border-radius: 16px;background-color: #0A66C2;font-family: "SF Pro Text", Helvetica, sans-serif;">Follow on LinkedIn</a>
   <a href="https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nithila0411@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
