@@ -12,10 +12,10 @@
 
 > **Turning caffeine into code, one bug at a time. ☕💻**
 
-- 🎓 Currently diving deep into **Software Development**, **Web Development** & **Cyber Security**
-- 💡 Passionate about all things tech — from building cool stuff to breaking it (ethically 😉)
+- 🎓 Currently diving deep into **Software Development**, **Web Development** , **Designing(Canva & Figma)**, **Documentation & Email Support** & **Cyber Security**
+- 💡 Passionate about all things Tech — from building cool stuff to breaking it (ethically 😉)
 - 📬 Reach me at: **nithila0411@gmail.com**
-- 🎵 Fun fact: I'm a **music enthusiast** — you'll often find me vibing to tunes while coding
+- 🎵 Fun fact: I'm a **Music Enthusiast** — you'll often find me vibing to tunes while coding
 
 ---
 
