@@ -4,6 +4,7 @@
   <img src="image.png" width="400"/><br>
   <a href="https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nithila0411@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://example.com/your-cv.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_CV-FFD700?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/></a>
 </p>
 
 ---
