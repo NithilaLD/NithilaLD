@@ -3,7 +3,6 @@
 <p align="center">
   <img src="image.png" width="400"/><br>
   <a href="https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nithila0411@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.canva.com/design/DAGXK5wfXZo/EjtNT3_aKm12U2kU4xU0Dw/view?utm_content=DAGXK5wfXZo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbed17927a7)" target="_blank"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
   <a href="https://nithilald.github.io/dulannithilaliyanarachchi.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20C997?style=for-the-badge&logo=vercel&logoColor=white"/>
