@@ -77,7 +77,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NithilaLD&theme=discord&no-frame=true&column=7&margin-w=5&margin-h=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NithilaLD&theme=discord&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </p>
 
 ---
