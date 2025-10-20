@@ -51,7 +51,7 @@
 ---
 
 ### 📂 Featured Projects
-<div style="width:100%; overflow-x:auto;">
+<div style="max-width:100%; overflow-x:auto;">
 
   | Project | Description | Tech Stack | Softwares & Tools | Type |
   |----------|----------|------------|----------|----------|
