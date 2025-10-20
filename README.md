@@ -16,7 +16,7 @@
 > **Turning caffeine into code, one bug at a time. ☕💻**
 
 - 🎓 Currently diving deep into **Software Development**, **Web Design & Development** , **Designing (Canva & Figma)**, **Documentation & Email Support** & **Cyber Security**
-- 💡 Passionate about all things Tech — from building cool stuff to breaking it (ethically 😉)
+- 💡 Passionate about all things Tech - from building cool stuff to breaking it (ethically 😉)
 - 📬 Reach me at: **nithila0411@gmail.com**
 - 🎵 Fun fact: I'm a **Music Enthusiast** — you'll often find me vibing to tunes while coding
 
