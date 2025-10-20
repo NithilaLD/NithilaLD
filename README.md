@@ -52,28 +52,10 @@
 
 ### 📂 Featured Projects
 <div style="overflow-x:auto;">
-  <style>
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    th, td {
-      padding: 8px;
-      text-align: left;
-      vertical-align: top;
-      word-wrap: break-word;
-    }
-    th:nth-child(1) { width: 15%; }
-    th:nth-child(2) { width: 35%; }
-    th:nth-child(3) { width: 20%; }
-    th:nth-child(4) { width: 20%; }
-    th:nth-child(5) { width: 10%; }
-  </style>
-
   | Project | Description | Tech Stack | Softwares & Tools | Type |
-  |----------|----------|------------|----------|----------|
+  |---|---|---|---|---|
   | Hello Bags - Eco-friendly Packaging (Bags and Boxes) Website | Developed a responsive, client-focused website for hello bags lk, highlighting sustainable packaging products and enabling custom orders for retail and bulk customers. |  `HTML`, `Javascript(js)`, `CSS`, `PHP`, `MySQL` | `XAMPP`, `PHPMyAdmin`, `Visual Studio Code`, `Github`, `Canva` | Individual |
-  | ThreatSense – IoT Intrusion Detection System (IDS) Business Proposal(https://github.com/Dersett/Small_ITBusiness) | For our NIT3274 - Small IT Business final project, our team created a startup called ThreatSense, which offers a next-generation Intrusion Detection System (IDS) for IoT devices.<br>The project included three main deliverables:<br><ul><li>A business proposal (https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/details/projects/1464342977/multiple-media-viewer/?profileId=ACoAADdUmNsBtm1G40dEpJEZOD-tm6KOkJVNK-k&treasuryMediaId=1760253451634)</li><li>A responsive marketing website (https://dersett.github.io/Small_ITBusiness/)</li><li> A mobile application(https://median.co/share/epdkqk). |  `HTML`, `Javascript(js)`, `CSS`, `Android(Java/Kotlin)`  | `Visual Studio Code`, `Github`, `Github Pages` | Group |
+  | ThreatSense – IoT Intrusion Detection System (IDS) Business Proposal (https://github.com/Dersett/Small_ITBusiness) | For our NIT3274 - Small IT Business final project, our team created a startup called ThreatSense, which offers a next-generation Intrusion Detection System (IDS) for IoT devices.<br>The project included three main deliverables:<br><ul><li>A business proposal (https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/details/projects/1464342977/multiple-media-viewer/?profileId=ACoAADdUmNsBtm1G40dEpJEZOD-tm6KOkJVNK-k&treasuryMediaId=1760253451634)</li><li>A responsive marketing website (https://dersett.github.io/Small_ITBusiness/)</li><li> A mobile application(https://median.co/share/epdkqk). |  `HTML`, `Javascript(js)`, `CSS`, `Android(Java/Kotlin)`  | `Visual Studio Code`, `Github`, `Github Pages` | Group |
   | MathMaster – Inter School Mathematics Competition Platform System https://github.com/NithilaLD/NSBM-MathMaster | The system hosts the MathMaster inter-school mathematics competition. | `ReactJS`, `Typescript`, `Vite`, `ExpressJS`, `PostGreSQL`| `Replit`, `Github` | Dual |
   | NSBM Employee Purchase Requisition System https://github.com/venuraka/NSBM-Employee-Purchase-Requisition-System | The NSBM Employee Purchase Requisition System automates and simplifies employee purchase requests | `PHP`, `Javascript(js)`, `CSS`, `HTML`, `MySQL`, `Boostrap`, `JQuery`, `Microsoft Auth 2.0` | `XAMPP`, `PHPMyAdmin`, `Visual Studio Code`, `Github`, `Clickup` | Group |
   | Resto Point Of Sale System https://github.com/NithilaLD/Resto_POS | A customizable POS system that streamlines restaurant operations and boosts efficiency and customer satisfaction | `Reactjs`, `Nodejs`, `PostgreSQL`, `Tailwind CSS` | `PGAdmin`, `Github`, `Jira`| Trio |
@@ -82,7 +64,6 @@
   | Simple Calculator https://github.com/NithilaLD/Simple-Calculator | A Simple Calculator using Java | `Java`| `Netbeans` | Individual |
   | Salary Generating Software https://github.com/NithilaLD/Salary-Generating-Software | The Salary Generating System automates salary calculations and generates detailed payslips. | `C#` | `Visual Studio`, `Github` | Individual |
   | O Seven Mobile Website https://github.com/NithilaLD/O-Seven-Mobile | Website for O Seven Mobile Shop https://nithilald.github.io/O-Seven-Mobile/ | `HTML`, `Javascript(js)`, `CSS` | `XAMPP`, `PHPMyAdmin`, `Visual Studio Code`, `Github` | Individual |
-
 </div>
 
 ---
