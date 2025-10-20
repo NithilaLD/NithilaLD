@@ -53,7 +53,7 @@
 ### 📂 Featured Projects
 
 | Project | Description | Tech Stack | Softwares & Tools | Type |
-|------|------|--------|------|------|
+|-----|-----|-------|-----|-----|
 | Hello Bags - Eco-friendly Packaging(Bags and Boxes) Website | Developed a responsive, client-focused website for hello bags lk, highlighting sustainable packaging products and enabling custom orders for retail and bulk customers. |  `HTML`, `Javascript(js)`, `CSS`, `PHP`, `MySQL` | `XAMPP`,  `PHPMyAdmin` ,`Visual Studio Code`, `Github`, `Canva` | Individual |
 | ThreatSense – IoT Intrusion Detection System (IDS) Business Proposal | For our NIT3274 - Small IT Business final project, our team created a startup called ThreatSense, which offers a next-generation Intrusion Detection System (IDS) for IoT devices. The project included three main deliverables: a business proposal(https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/details/projects/1464342977/multiple-media-viewer/?profileId=ACoAADdUmNsBtm1G40dEpJEZOD-tm6KOkJVNK-k&treasuryMediaId=1760253451634), a responsive marketing website(https://dersett.github.io/Small_ITBusiness/), and a mobile application(https://median.co/share/epdkqk). |  `HTML`, `Javascript(js)`, `CSS`, `Android(Java/Kotlin)`  | `Visual Studio Code`, `Github`, `Github Pages` | Group |
 | MathMaster – Inter School Mathematics Competition Platform System https://github.com/NithilaLD/NSBM-MathMaster | The system hosts the MathMaster inter-school mathematics competition. | `ReactJS`, `Typescript`, `Vite`, `ExpressJS`, `PostGreSQL`| `Replit`, `Github` | Dual |
