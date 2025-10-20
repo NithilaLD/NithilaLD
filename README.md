@@ -51,7 +51,7 @@
 ---
 
 ### 📂 Featured Projects
-<div style="max-width:100%; overflow-x:auto;">
+<!-- <div style="max-width:100%; overflow-x:auto;"> -->
 
   | Project | Description | Tech Stack | Softwares & Tools | Type |
   |----------|----------|------------|----------|----------|
@@ -66,7 +66,7 @@
   | Salary Generating Software https://github.com/NithilaLD/Salary-Generating-Software | The Salary Generating System automates salary calculations and generates detailed payslips. | `C#` | `Visual Studio`, `Github` | Individual |
   | O Seven Mobile Website https://github.com/NithilaLD/O-Seven-Mobile | Website for O Seven Mobile Shop https://nithilald.github.io/O-Seven-Mobile/ | `HTML`, `Javascript(js)`, `CSS` | `XAMPP`, `PHPMyAdmin`, `Visual Studio Code`, `Github` | Individual |
 
-</div>
+<!-- </div> -->
 
 ---
 
