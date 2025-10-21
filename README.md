@@ -3,7 +3,7 @@
 <p align="center">
   <img src="image.png" width="400"/><br>
   <a href="https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.canva.com/design/DAGXK5wfXZo/EjtNT3_aKm12U2kU4xU0Dw/view?utm_content=DAGXK5wfXZo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbed17927a7)" target="_blank"><img src="https://img.shields.io/badge/CV-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+  <a href="https://www.canva.com/design/DAG2Znu1gO8/i8AA5ir_0zqHQCi_gm1YGQ/view?utm_content=DAG2Znu1gO8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc7cb334ae5" target="_blank"><img src="https://img.shields.io/badge/CV-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
   <a href="https://nithilald.github.io/Dulan-Nithila-Liyanarachchi/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20C997?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
