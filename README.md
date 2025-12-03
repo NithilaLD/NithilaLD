@@ -38,8 +38,9 @@
 
 </p>
 
-<!-- <p>---
+---
 
+<!-- <p>
 ### 📈 GitHub Statistics
 
 <p align="center">
@@ -49,8 +50,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NithilaLD&theme=github-dark&hide_border=true" height="150" />
 </p>
+</p> -->
 
----</p> -->
+---
 
 ### 📂 Featured Projects
 
