@@ -38,7 +38,7 @@
 
 </p>
 
----
+<!-- <p>---
 
 ### 📈 GitHub Statistics
 
@@ -50,7 +50,7 @@
   <img src="https://streak-stats.demolab.com/?user=NithilaLD&theme=github-dark&hide_border=true" height="150" />
 </p>
 
----
+---</p> -->
 
 ### 📂 Featured Projects
 
