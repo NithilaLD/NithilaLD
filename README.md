@@ -43,8 +43,10 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithilaLD&show_icons=true&theme=github_dark" height="170" width="40%"/>
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithilaLD&layout=compact&theme=github_dark" height="170" width="40%" style="padding-left: 10px;"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NithilaLD&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithilaLD&layout=compact&theme=github_dark" height="170" style="padding-left: 20px;"/>
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=NithilaLD&theme=github-dark&hide_border=true" height="150" />
 </p>
 
