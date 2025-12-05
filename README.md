@@ -78,14 +78,14 @@
 </p>
 
 ---
-
+<!-- <p>
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NithilaLD&theme=discord&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </p>
 
----
+---</p> -->
 ### 📫 Connect With Me
 
 - LinkedIn: <a href="https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/" target="_blank">Dulan Nithila Liyanarachchi</a>
