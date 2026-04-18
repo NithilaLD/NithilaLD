@@ -17,7 +17,7 @@
 
 - 🎓 Currently diving deep into **Software Development**, **Web Development** , **Designing (Canva & Figma)**, **Documentation & Email Support** & **Cyber Security**
 - 💡 Passionate about all things Tech - from building cool stuff to breaking it (ethically 😉)
-- 📬 Reach me at: **nithila0411@gmail.com**
+- 📬 Reach me at: nithila0411@gmail.com
 - 🎵 Fun fact: I'm a **Music Enthusiast** — you'll often find me vibing to tunes while coding
 
 ---
@@ -90,7 +90,7 @@
 ### 📫 Connect With Me
 
 - LinkedIn: <a href="https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/" target="_blank">Dulan Nithila Liyanarachchi</a>
-- Email: <a href="mailto:nithila0411@gmail.com">nithila0411@gmail.com<a/>
+- Email: nithila0411@gmail.com
 
 ---
 
