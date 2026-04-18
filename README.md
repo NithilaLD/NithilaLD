@@ -15,10 +15,10 @@
 
 > **Turning caffeine into code, one bug at a time. ☕💻**
 
-- 🎓 Currently diving deep into **Software Development**, **Web Development** , **Designing (Canva & Figma)**, **Documentation & Email Support** & **Cyber Security**
+- 🎓 Currently diving deep into **Software Development**, **Web Development** , **Designing (Canva & Figma)**, **Skilled Administrative Professional** & **Cyber Security**
 - 💡 Passionate about all things Tech - from building cool stuff to breaking it (ethically 😉)
-- 📬 Reach me at: nithila0411[at]gmail.com
-- 🎵 Fun fact: I'm a **Music Enthusiast** — you'll often find me vibing to tunes while coding
+- 📬 Reach me at: `nithila0411gmail.com`
+- 🎵 Fun fact: I'm a **Music Enthusiast** — you'll often find me vibing to tunes while developing
 
 ---
 
@@ -100,7 +100,7 @@
 
 ---
 
-**Last updated on: March 2026**
+**Last updated on: April 2026**
 <!---
 NithilaLD/NithilaLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
