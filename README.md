@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dulan Nithila Liyanarachchi</h1>[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NithilaLD.svg)](https://user-badge.committers.top/sri_lanka_public/NithilaLD)
+<h1 align="center">Hi 👋, I'm Dulan Nithila Liyanarachchi</h1>
+<p align="center">
+  <a href="https://user-badge.committers.top/sri_lanka_public/NithilaLD">
+    <img src="https://user-badge.committers.top/sri_lanka_public/NithilaLD.svg" alt="committers.top badge">
+  </a>
+</p>
 
 <p align="center">
   <img src="image.png" width="400"/><br>
