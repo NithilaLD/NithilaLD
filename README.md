@@ -8,10 +8,19 @@
 <p align="center">
   <img src="image.png" width="400"/><br>
   <a href="https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://canva.link/vhag8j6pnyue2uh" target="_blank"><img src="https://img.shields.io/badge/CV-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
   <a href="https://nithilald.github.io/Dulan-Nithila-Liyanarachchi/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20C997?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://orcid.org/my-orcid?orcid=0009-0003-6545-277X" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Dulan-Liyanarachchi?ev=hdr_xprf" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=wedLujYAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  </a>
+  <a href="https://canva.link/vhag8j6pnyue2uh" target="_blank"><img src="https://img.shields.io/badge/CV-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 </p>
 
 ---
