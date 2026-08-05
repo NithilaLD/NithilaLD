@@ -57,7 +57,7 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <a href=https://github-stats-extended.vercel.app" >
+  <a href="https://github-stats-extended.vercel.app" >
     <img src="https://github-stats-extended.vercel.app/api?username=NithilaLD" /> &ensp; <img src="https://github-stats-extended.vercel.app/api/top-langs?username=NithilaLD&langs_count=5&theme=catppuccin_latte" />
   </a>
 </p>
