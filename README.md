@@ -3,6 +3,7 @@
   <a href="https://user-badge.committers.top/sri_lanka_public/NithilaLD">
     <img src="https://user-badge.committers.top/sri_lanka_public/NithilaLD.svg" alt="committers.top badge">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=NithilaLD&label=Profile views&color=0e75b6&style=flat" alt="NithilaLD" />
 </p>
 
 <p align="center">
