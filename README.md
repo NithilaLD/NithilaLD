@@ -54,19 +54,11 @@
 
 ---
 
-<!-- <p>
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithilaLD&show_icons=true&theme=github_dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithilaLD&layout=compact&theme=github_dark" height="170" style="padding-left: 20px;"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-stats-extended.vercel.app/api?username=NithilaLD" alt="GitHub Streak" /></a>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NithilaLD&theme=github-dark&hide_border=true" height="150" />
-</p>
-
-
----</p> -->
 
 ### 📂 Featured Projects
 
@@ -116,7 +108,3 @@
 ---
 
 **Last updated on: April 2026**
-<!---
-NithilaLD/NithilaLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
