@@ -57,17 +57,17 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <table align="center">
+  <table align="center" style="border-collapse: collapse;">
     <tr>
-      <td align="center" style="border: none !important;">
+      <td align="center" style="border: revert;">
         <img src="https://github-stats-extended.vercel.app/api?username=NithilaLD" />
       </td>
-      <td rowspan="2" align="center">
+      <td rowspan="2" align="center" style="border: revert;">
         <img src="https://github-stats-extended.vercel.app/api/top-langs?username=NithilaLD&langs_count=10&theme=catppuccin_latte" />
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" style="border: revert;">
         <img src="https://github-stats-extended.vercel.app/api/pin?username=NithilaLD&repo=anuraghazra%2Fgithub-readme-stats" />
       </td>
     </tr>
