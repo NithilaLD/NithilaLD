@@ -58,9 +58,7 @@
 
 <p align="center">
   <a href=https://github-stats-extended.vercel.app" >
-    <img src="https://github-stats-extended.vercel.app/api?username=NithilaLD" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=NithilaLD&langs_count=10&theme=catppuccin_latte" />
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=NithilaLD&repo=anuraghazra%2Fgithub-readme-stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=NithilaLD" /> &ensp; <img src="https://github-stats-extended.vercel.app/api/top-langs?username=NithilaLD&langs_count=5&theme=catppuccin_latte" />
   </a>
 </p>
 
