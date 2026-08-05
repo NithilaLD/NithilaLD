@@ -57,8 +57,24 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-stats-extended.vercel.app/api?username=NithilaLD" alt="GitHub Streak" /></a>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-stats-extended.vercel.app/api?username=NithilaLD" />
+      </td>
+      <td rowspan="2" align="center">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=NithilaLD&langs_count=10&theme=catppuccin_latte" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=NithilaLD&repo=anuraghazra%2Fgithub-readme-stats" />
+      </td>
+    </tr>
+  </table>
 </p>
+
+---
 
 ### 📂 Featured Projects
 
