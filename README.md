@@ -59,7 +59,7 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center" style="border: none;">
+      <td align="center" style="border: none !important;">
         <img src="https://github-stats-extended.vercel.app/api?username=NithilaLD" />
       </td>
       <td rowspan="2" align="center">
