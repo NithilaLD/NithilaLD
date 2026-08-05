@@ -57,21 +57,11 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <table align="center" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: revert;">
-        <img src="https://github-stats-extended.vercel.app/api?username=NithilaLD" />
-      </td>
-      <td rowspan="2" align="center" style="border: revert;">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=NithilaLD&langs_count=10&theme=catppuccin_latte" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: revert;">
-        <img src="https://github-stats-extended.vercel.app/api/pin?username=NithilaLD&repo=anuraghazra%2Fgithub-readme-stats" />
-      </td>
-    </tr>
-  </table>
+  <a href=https://github-stats-extended.vercel.app" >
+    <img src="https://github-stats-extended.vercel.app/api?username=NithilaLD" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=NithilaLD&langs_count=10&theme=catppuccin_latte" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=NithilaLD&repo=anuraghazra%2Fgithub-readme-stats" />
+  </a>
 </p>
 
 ---
@@ -102,14 +92,6 @@
 </p>
 
 ---
-<!-- <p>
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NithilaLD&theme=discord&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</p>
-
----</p> -->
 ### 📫 Connect With Me
 
 - LinkedIn: <a href="https://www.linkedin.com/in/dulan-nithila-liyanarachchi-563a7121a/" target="_blank">Dulan Nithila Liyanarachchi</a>
