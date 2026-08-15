@@ -93,7 +93,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <img src="QR.png" alt="Scan QR Code to Connect with Dulan Nithila Liyanarachchi" width="180"><br>
+  <img src="QR.png" alt="Scan QR Code to Connect with Dulan Nithila Liyanarachchi" width="200"><br>
   <em>If the QR code isn't working, <a href="https://nithilald.github.io/Dulan-Nithila-Liyanarachchi/connect.html" target="_blank">click here to connect</a></em>
 </p>
 
