@@ -20,6 +20,9 @@
   <a href="https://scholar.google.com/citations?user=wedLujYAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
   </a>
+  <a href="https://www.kaggle.com/dulannliyanarachchi" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20C997?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
   <a href="https://canva.link/vhag8j6pnyue2uh" target="_blank"><img src="https://img.shields.io/badge/CV-6f42c1?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 </p>
 
