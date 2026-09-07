@@ -93,8 +93,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <!-- <img src="https://github.pumbas.net/api/contributions/NithilaLD?bgColour=161B22" alt="NithilaLD's GitHub contributions" /> -->
-  ![NithilaLD's GitHub contributions](https://github.pumbas.net/api/contributions/NithilaLD?bgColour=161B22)
+  <img src="https://github.pumbas.net/api/contributions/NithilaLD?bgColour=161B22" alt="NithilaLD's GitHub contributions" />
 </p>
 
 ---
@@ -111,4 +110,4 @@
 
 ---
 
-**Last updated on: August 2026**
+**Last updated on: September 2026**
