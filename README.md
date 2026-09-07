@@ -93,7 +93,8 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithilaLD&theme=react-dark&hide_border=true" />
+  <!-- <img src="https://github.pumbas.net/api/contributions/NithilaLD?bgColour=161B22" alt="NithilaLD's GitHub contributions" /> -->
+  ![NithilaLD's GitHub contributions](https://github.pumbas.net/api/contributions/NithilaLD?bgColour=161B22)
 </p>
 
 ---
